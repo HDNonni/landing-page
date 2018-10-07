@@ -3,8 +3,13 @@
 }
 body{   
     background-color: blanchedalmond;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size:20px;
 }
+html{
+    
+}
+
 
 h1{
     padding-top: 155px;
@@ -47,9 +52,10 @@ h1{
     align-items: center;
     justify-content:center;   
 }
-.style-body{
-    font-size: 18px;
+#homePlans{
+    padding-top:35px;
 }
+
 .table{
     display:flex;
     justify-content:center;
